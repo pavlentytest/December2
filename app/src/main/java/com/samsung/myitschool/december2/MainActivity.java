@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         // Павел Валерьевич - супер!
         // Я - второй
         // Ромка - лох 123
+        // MUDAMUDAMUDAMUDAMUDAMUDAMUDAMUDAMUDAMUDAMUDAMUDAMUDA
     }
 
     @Override
