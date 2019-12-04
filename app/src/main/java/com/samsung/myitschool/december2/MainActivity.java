@@ -23,5 +23,6 @@ public class MainActivity extends AppCompatActivity {
         // Ромка - первый
         // Павел Валерьевич - супер!
         // Я - второй
+        // КТО ПРОЧИТАЛ ТОТ ЗДОХНЕТ
     }
 }
