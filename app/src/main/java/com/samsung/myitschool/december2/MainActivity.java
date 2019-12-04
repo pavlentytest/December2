@@ -22,5 +22,6 @@ public class MainActivity extends AppCompatActivity {
         // мега логика
         // Ромка - первый
         // Павел Валерьевич - супер!
+        // Я - второй
     }
 }
