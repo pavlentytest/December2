@@ -21,5 +21,6 @@ public class MainActivity extends AppCompatActivity {
     public void onClick(View view) {
         // мега логика
         // Ромка - первый
+        // Я - второй
     }
 }
