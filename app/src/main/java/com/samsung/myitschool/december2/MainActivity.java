@@ -7,7 +7,7 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.widget.Button;
 
-public class MainActivity extends AppCompatActivity{
+public class MainActivity extends AppCompatActivity implements View.OnClickListener, View.OnTouchListener {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -26,7 +26,11 @@ public class MainActivity extends AppCompatActivity{
         // Ромка - первый
         // Павел Валерьевич - супер!
         // Я - второй
-        // КТО ПРОЧИТАЛ ТОТ ЗДОХНЕТ
-        // привет от анонима с третьей парты
+        // Ромка - лох 123
     }
 
+    @Override
+    public boolean onTouch(View view, MotionEvent motionEvent) {
+        return false;
+    }
+}
